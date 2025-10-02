@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Thirunavukkarasu 
 <p align="center">
-  <strong>Graduate Student • Privacy & Security Enthusiast • AI & RPA Developer</strong>
+  <strong> Master’s in Computer Science | Georgia State University | Cybersecurity | App Developer | BTech Computer Science |</strong>
 </p>
 
 ---
