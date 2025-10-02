@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Thirunavukkarasu (thiruna31)</h1>
+<h1 align="center">👋 Hi, I'm Thirunavukkarasu 
 <p align="center">
   <strong>Graduate Student • Privacy & Security Enthusiast • AI & RPA Developer</strong>
 </p>
