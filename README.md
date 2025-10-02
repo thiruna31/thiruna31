@@ -1,72 +1,72 @@
-<h1 align="center">👋 Hi, I'm Thirunavukkarasu 
+<!-- Hi there 👋 I'm Thirunavukkarasu (thiruna31) -->
+
+<h1 align="center">Hi — I'm Thirunavukkarasu 👋</h1>
 <p align="center">
-  <strong> Master’s in Computer Science | Georgia State University | Cybersecurity | App Developer | BTech Computer Science |</strong>
+  <strong>Computer Science student • Full-stack developer • Systems & C++ enthusiast</strong>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🎓 Master’s student in Computer Science at Georgia State University (specializing in **Privacy & Security**).  
-- 💡 Passionate about **AI-driven solutions, security, and automation**.  
-- 📑 Published IEEE research papers in areas like appliance disaggregation, green computing, and AI-assisted medical diagnostics.  
-- 🔭 Experienced Teaching Assistant and System Analyst Intern with hands-on exposure to **data analysis, RPA, IoT, and ML projects**.  
-- 🏸 Fun fact: I’ve coached **150+ students in badminton**!  
+## About me
+- 🎓 I’m currently studying Computer Science and building projects that bridge systems programming and user-facing web apps.  
+- 🔭 Right now I’m working on full-stack web projects and systems programming assignments.  
+- 🌱 I’m learning modern web frameworks, C++ performance patterns, and cloud deployment.  
+- 💬 Ask me about C++, algorithms, or how to structure a full-stack project from idea → deployment.
 
 ---
 
-## 🛠️ Technical Skills
-**Languages:** Python, Java, C  
-**AI & ML:** Deep Learning, Generative AI, NLP  
-**Tools & Platforms:** UiPath, RPA, Visual Studio, GitHub, Flutter, Android Studio, Dart, Adobe  
-**Operating Systems:** Linux, Windows  
+## Tech stack
+**Languages:** C++, Python, JavaScript (ES6+), HTML, CSS  
+**Frameworks / Tools:** Node.js, Express, React/Next.js, Git, Docker  
+**Other:** SQL, REST APIs, Linux, AWS (basic)
 
 ---
 
-## 🎓 Certifications
-- UiPath Academy: Automation Explorer, RPA Citizen Developer Foundation  
-- Infosys Springboard: Deep Learning, Data Science, AI Primer, Data Structures & Algorithms (Java), Programming in Java, NLP Introduction  
-- Canada India Institutional Co-operation Project (Multimedia Package)  
+## Featured projects
+> Click the repo names below to open them.
+
+- ### [full-stack](https://github.com/thiruna31/full-stack)  
+  A full-stack demo app showing frontend <-> backend integration. Includes authentication, a simple REST API, and deployment notes. Good for demonstrating end-to-end flow.
+
+- ### [cw1_apps](https://github.com/thiruna31/cw1_apps)  
+  Course work collection with small apps and assignments. Mostly C++ projects plus small utilities. Clean code and comments for graders/peers.
+
+- ### [stateful_rocket_launch](https://github.com/thiruna31/stateful_rocket_launch)  
+  A C++ systems project that simulates/controls stateful sequences (e.g., launch sequences). Focus on state machines, timing, and correctness.
+
+- ### [inclass7](https://github.com/thiruna31/inclass7)  
+  In-class coding exercises and lab work. Useful as examples of approach and incremental development.
+
+*(If any of the links above are private or the repo name differs, update the links to match your repo URLs.)*
 
 ---
 
-## 🚀 Projects
-- **Med Gen: AI-Driven Medical Image Analysis**  
-  🧠 Developed generative AI-based scanner & description generator with 95% accuracy.  
-
-- **Smart Parking System**  
-  🚗 IoT-powered parking automation using Raspberry Pi + Python, optimized vehicle allocation.  
-
-- **Stateful Rocket Launch (C++ simulation)**  
-  🚀 Modeled complex state machine sequences with precision and safety checks.  
-
-- **Full-Stack Web Demo**  
-  🌐 Built an end-to-end app with authentication, REST API backend, and React frontend.  
+## What I bring
+- Practical knowledge of C++ for performance-sensitive tasks.  
+- Experience building small full-stack web apps from scratch.  
+- Clean, well-documented course work (useful for recruiters & collaborators).
 
 ---
 
-## 📚 Publications
-- *Improved Appliance Disaggregation with UNet-NILM* — IEEE  
-- *Green Computing for Communication Technologies* — TEECCON-2024  
-- *Enhancing Diabetic Retinopathy Diagnosis with Multimodel AI* — ICCISS 2025  
-- *Current and Future Disease Diagnosis - A Multimodal Perspective*  
+## What I’m learning
+- Advanced C++ (modern idioms, memory/smart pointers, concurrency)  
+- React/Next.js for polished frontends  
+- Basic cloud deployment and CI/CD (Docker, GitHub Actions)
 
 ---
 
-## 🏅 Leadership & Activities
-- 🎤 Class Representative & Event Coordinator — managed academic + extracurricular events.  
-- 📢 Organized workshops for **50+ students**, boosting programming competition participation.  
-- 🌍 Volunteered at **Sparkz International Symposium** — hosted stage events & coordinated programs.  
+## Contact & socials
+- 📫 Email: `thirunavukkarasu@example.com` *(replace with your real email)*  
+- 🔗 LinkedIn: `https://www.linkedin.com/in/thirunavukkarasu` *(add your link)*
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiruna31&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiruna31&show_icons=true)  
+## Fun facts
+- ☁ Built a small project that started as a class assignment and turned into a useful demo app.  
+- 🧩 I enjoy competitive programming puzzles and optimizing algorithms for speed.
 
 ---
 
-## 📫 Let’s Connect!
-- 📧 Email: [plthirunavukkarasu01@gmail.com](mailto:plthirunavukkarasu01@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/thirunavukkarasu-palaniappa-28194228b](https://www.linkedin.com/in/thirunavukkarasu-palaniappa-28194228b/)  
+## Quick copy badges (optional)
+You can paste any of these badge lines under your name if you like — replace usernames where needed:
 
----
