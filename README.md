@@ -1,19 +1,19 @@
 <h1 align="center">👋 Thirunavukkarasu Palaniappa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi,+this+is+Thirunavukkarasu+—+Computer+Enthusiast,+Learning+and+Building+Innovative+Solutions!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi,+Thirunavukkarasu!+Computer+Enthusiast,+Learning+and+Building+Innovative+Works." alt="Typing SVG">
 </p>
 
-<p align="center"><strong>Master’s in Computer Science, Georgia State University | BTech Computer Science | Published Research works</strong></p>
+<p align="center"><strong>Master's in Computer Science, Georgia State University | BTech Computer Science | Published Research Works</strong></p>
 
 ---
 
 ## 🌟 About Me
-- 🎓 Master’s student in Computer Science at Georgia State University 
-- 💡 Passionate about AI solutions, security, automation, and tech for social impact
+- 🎓 Master's student in Computer Science (Privacy & Security), Georgia State University
+- 💡 Passionate about AI, security, automation, and social impact technology
 - 📑 IEEE-published in appliance disaggregation, green computing, AI medical diagnostics
-- 🔭 Teaching Assistant & System Analyst Intern; hands-on with **data, RPA, IoT, ML**
-- 🏸 Coached 150+ students in badminton, strong team and leadership spirit
+- 🧑‍🏫 Teaching Assistant and System Analyst Intern; hands-on with data analytics, RPA, IoT, machine learning
+- 🏸 Badminton coach for 150+ youths; skilled event coordinator, team leader
 
 ---
 
@@ -70,26 +70,33 @@
 ## 🎓 Certifications
 
 - UiPath Academy: Automation Explorer, RPA Citizen Developer Foundation
-- Infosys Springboard: Deep Learning, Data Science, AI Primer, DSA (Java), Java Programming, NLP Introduction
+- Infosys Springboard: Deep Learning, Data Science, AI Primer, Data Structures & Algorithms (Java), Programming in Java, NLP Introduction
 - Canada-India Institutional Co-operation Project: Multimedia Package
 
 ---
 
 ## 🚀 Projects
 
-- **Med Gen: AI-Driven Medical Image Analysis**
-  - 🧠 Designed deep learning scanner and description generator
-  - Achieved 95% accuracy; published in IEEE
+- **Med Gen: AI-Driven Medical Image Analysis & Scanner Detector**
+  - 🧠 Developed a scanner detector and description generator using generative AI and Python; achieved 95% accuracy for automated medical imaging (IEEE published)
 
-- **Smart Parking System**
-  - 🚗 IoT-based parking automation (Raspberry Pi + Python)
-  - Enhanced allocation efficiency
+- **Enhancing Diabetic Retinopathy Diagnosis with Multimodal AI**
+  - 🧬 Implemented deep learning approach for accurate, multimodal medical analysis—improving early detection and diagnosis of diabetic retinopathy (ICCISS 2025)
 
-- **Stateful Rocket Launch (C++ Simulation)**
-  - 🚀 Simulated launch workflows with robust safety checks
+- **Current and Future Disease Diagnosis — A Multimodal Perspective**
+  - 🔬 Researched and built frameworks for next-generation disease diagnosis using combined imaging, data science, and AI-powered analytics
+
+- **Smart Parking System (IoT Optimization)**
+  - 🚗 Designed and implemented IoT parking automation using Raspberry Pi and Python; improved efficiency of vehicle allocation through optimization techniques
+
+- **AI-Powered Protection Against Cybersecurity Online Threats**
+  - 🛡 Built intelligent cybersecurity modules leveraging machine learning for intrusion detection and real-time threat mitigation on web platforms
 
 - **Full-Stack Web Demo**
-  - 🌐 Authentication, API backend, React-driven UI
+  - 🌐 Created secure REST API backend, user authentication, and React-driven user interface for web application prototyping
+
+- **Stateful Rocket Launch (C++ Simulation)**
+  - 🚀 Developed launch sequence simulator with robust safety and process state management in C++
 
 ---
 
@@ -97,17 +104,17 @@
 
 - *Improved Appliance Disaggregation with UNet-NILM* — IEEE
 - *Green Computing for Communication Technologies* — TEECCON-2024
-- *Enhancing Diabetic Retinopathy Diagnosis with Multimodel AI* — ICCISS 2025
+- *Enhancing Diabetic Retinopathy Diagnosis with Multimodal AI* — ICCISS 2025
 - *Current and Future Disease Diagnosis – A Multimodal Perspective*
 
 ---
 
 ## 🏅 Leadership & Activities
 
-- 🎤 Class Representative & Event Coordinator for academic and extracurricular programming
-- 📢 Organized tech workshops for 50+ students and expanded competitive programming activities
-- 🌍 Volunteered at Sparkz International Symposium (host, event management)
-- 🏸 Badminton Coach for 150+ athletes
+- 🎤 Class Representative & Event Coordinator – managed academic and extracurricular events
+- 📢 Led technical workshops and programming contests for 50+ students
+- 🌍 Volunteered and hosted Sparkz International Symposium
+- 🏸 Badminton Coach – mentored and trained 150+ athletes
 
 ---
 
@@ -118,7 +125,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - 📧 [plthirunavukkarasu01@gmail.com](mailto:plthirunavukkarasu01@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thirunavukkarasu-palaniappa-28194228b/)
