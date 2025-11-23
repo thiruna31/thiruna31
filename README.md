@@ -1,10 +1,10 @@
 <h1 align="center">👋 Thirunavukkarasu Palaniappa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=800&lines=Innovative+Computer+Scientist;Cybersecurity+Specialist;AI+Solutions+Architect" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi,+this+is+Thirunavukkarasu+—+Computer+Enthusiast,+Learning+and+Building+Innovative+Solutions!" alt="Typing SVG">
 </p>
 
-<p align="center"><strong>Master’s in Computer Science (Privacy & Security focus), Georgia State University | BTech Computer Science | Published Research works</strong></p>
+<p align="center"><strong>Master’s in Computer Science, Georgia State University | BTech Computer Science | Published Research works</strong></p>
 
 ---
 
@@ -125,4 +125,4 @@
 
 ---
 
-> *Modern. Achievement-driven. Ready for the next challenge in technology and research.*
+> 
