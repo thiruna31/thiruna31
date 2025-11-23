@@ -1,7 +1,7 @@
 <h1 align="center">👋 Thirunavukkarasu Palaniappa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi,+Thirunavukkarasu!+Computer+Enthusiast,+Learning+and+Building+Innovative+Works." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=900&duration=5000&pause=1000&lines=Hi,+This+is+Thirunavukkarasu;Computer+Enthusiast,+Building+Innovative+Works" alt="Typing SVG">
 </p>
 
 <p align="center"><strong>Master's in Computer Science, Georgia State University | BTech Computer Science | Published Research Works</strong></p>
@@ -132,4 +132,4 @@
 
 ---
 
-> 
+> *Modern. Achievement-driven. Ready for the next challenge in technology and research.*
