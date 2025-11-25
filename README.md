@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Master's student in Computer Science (Privacy & Security), Georgia State University
+- 🎓 Master's student in Computer Science , Georgia State University
 - 💡 Passionate about AI, security, automation, and social impact technology
 - 📑 IEEE-published in appliance disaggregation, green computing, AI medical diagnostics
 - 🧑‍🏫 Teaching Assistant and System Analyst Intern; hands-on with data analytics, RPA, IoT, machine learning
