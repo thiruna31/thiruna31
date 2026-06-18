@@ -1,152 +1,128 @@
+<!-- ===================== PREMIUM AI PROFILE README ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B0F19,50:0EA5E9,100:38BDF8&text=Thirunavukkarasu%20Palaniappa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-# 👋 Hi, I'm Thirunavukkarasu
-
-### AI Engineer  • Researcher
-
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Researcher;Privacy-Preserving+AI;Full-Stack+AI+Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=6,11,20,24,30&text=THIRUNAVUKKARASU%20PALANIAPPA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descSize=16&descAlignY=55"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Machine+Learning+Researcher;Generative+AI+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Scalable+AI+Systems;Graduate+Teaching+Assistant+%40+Georgia+State+University"/>
+
+<br><br>
+
 <a href="mailto:plthirunavukkarasu01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/thirunavukkarasu-palaniappa-28194228b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/thiruna31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=thiruna31&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
-
-```yaml
-name: Thirunavukkarasu Palaniappa
-
-role: AI Engineer
-
-education:
-  - MS Computer Science @ Georgia State University
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Computer Vision
-  - Privacy-Preserving AI
-
-currently_learning:
-  - AI Agents
-  - LLM Applications
-  - MLOps
-  - System Design
-```
-
----
-
-# 🛠 Technology Stack
+## 👋 About Me
 
 <div align="center">
 
-### Languages
+### AI Engineer • Machine Learning Researcher • Graduate Teaching Assistant
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,sql"/>
+**Master of Science in Computer Science @ Georgia State University**
 
-### AI / Machine Learning
+Building intelligent systems that connect research with real-world impact.
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
-
-OpenCV • Scikit-Learn • NLP • Computer Vision
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
-
-FastAPI • REST APIs • WebSockets
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,gcp,linux"/>
+**Generative AI • Machine Learning • Computer Vision • Deep Learning • Privacy-Preserving AI**
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## ⚡ Tech Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,pytorch,tensorflow,sklearn,opencv,react,flask,fastapi,nodejs,aws,gcp,docker,firebase,linux,git,github,vscode&perline=9"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡 AI-Powered Cybersecurity IDS
+### 🛡 AI Cybersecurity IDS
 
-* 98% Detection Accuracy
-* Real-Time Threat Monitoring
-* WebSocket Dashboard
+Machine learning-powered intrusion detection system designed for intelligent threat monitoring.
 
-**Tech**
+**Highlights**
+- 98% detection accuracy
+- Real-time anomaly detection
+- Interactive React dashboard
+- ML-based traffic classification
 
-Python • Scikit-Learn • React
+**Tech Stack**
+
+`Python` `Scikit-Learn` `React` `Flask`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ❤️ HeartCare
 
-### ❤️ HeartCare Federated Learning
+Privacy-preserving federated learning platform for healthcare intelligence.
 
-* Privacy-Preserving AI
-* Flower Framework
-* Secure Inference APIs
+**Highlights**
+- Secure decentralized learning
+- Healthcare-focused AI pipeline
+- Low-latency API architecture
+- Privacy-first model training
 
-**Tech**
+**Tech Stack**
 
-PyTorch • Flask • Federated Learning
+`PyTorch` `Flower` `Flask` `Federated Learning`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Multimodal Medical Diagnosis
+### 🧠 Multimodal Medical AI
 
-* Deep Learning
-* Transfer Learning
-* ICCISS 2025 Publication
+Deep learning framework for medical diagnosis using multimodal clinical data.
 
-**Tech**
+**Highlights**
+- ICCISS 2025 publication
+- Transfer learning models
+- Medical image classification
+- Clinical data fusion
 
-TensorFlow • ResNet • EfficientNet
+**Tech Stack**
+
+`TensorFlow` `ResNet` `EfficientNet` `Deep Learning`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Generative AI Systems
 
-### 🤖 Generative AI Applications
+Production-ready AI agents and LLM-powered application workflows.
 
-* LLM Applications
-* AI Agents
-* Scalable AI Systems
+**Highlights**
+- Agentic AI workflows
+- LLM application APIs
+- Retrieval-augmented generation
+- Scalable AI architecture
 
-**Tech**
+**Tech Stack**
 
-Python • FastAPI • OpenAI
+`Python` `FastAPI` `LLMs` `RAG`
 
 </td>
 </tr>
@@ -154,122 +130,82 @@ Python • FastAPI • OpenAI
 
 ---
 
-# 📚 Research & Publications
+## 🧠 Research & Focus Areas
 
-📄 Enhancing Diabetic Retinopathy Diagnosis with Multimodal AI
+<div align="center">
 
-📄 Improved Appliance Disaggregation with UNet-NILM
+| Area | Focus |
+|---|---|
+| **Generative AI** | LLM applications, AI agents, RAG systems |
+| **Computer Vision** | Medical imaging, object detection, image classification |
+| **Machine Learning** | Predictive modeling, anomaly detection, applied ML |
+| **Deep Learning** | CNNs, transfer learning, neural architectures |
+| **Privacy-Preserving AI** | Federated learning, healthcare AI, secure intelligence |
 
-📄 Green Computing for Communication Technologies
-
-📄 Current and Future Disease Diagnosis – A Multimodal Perspective
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thiruna31&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thiruna31&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruna31&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thiruna31&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiruna31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
 
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=thiruna31&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
----
+<br><br>
 
-# 🔥 Contribution Graph
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruna31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiruna31&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🔥 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiruna31&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Current Focus
+## 🌐 Connect With Me
 
-```python
-class AIEngineer:
-
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.interests = [
-            "Generative AI",
-            "LLM Applications",
-            "Computer Vision",
-            "MLOps",
-            "Distributed Systems"
-        ]
-
-    def current_goal(self):
-        return "Building intelligent systems for real-world impact 🚀"
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Graduate Teaching Assistant
-* [x] Publish Research Papers
-* [x] Build AI Applications
-* [ ] Open Source Contributions
-* [ ] AI Engineer Internship
-* [ ] Production-Scale AI Systems
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:plthirunavukkarasu01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/thirunavukkarasu-palaniappa-28194228b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/thiruna31">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building AI Systems For Real-World Impact
+### “Building intelligent systems that turn research into impact.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0B0F19,50:0EA5E9,100:38BDF8"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
